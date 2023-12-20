@@ -1,0 +1,2 @@
+/*Write a C program to find the index of the last occurrence of a number in an array
+with a user defined function.*/
